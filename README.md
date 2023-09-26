@@ -9,6 +9,8 @@ Currently, "CQM Homosexuality" fully backports the Unnofficial Patch Plus' "Homo
 # Installation
 Install CQM 4.1 (https://www.moddb.com/mods/vtmb-clan-quest-mod) into your "Vampire: The Masquerade - Bloodlines" game folder, then extract the release file on top of your CQM file, allowing it to overwrite as needed.
 
+Given the function of the mod, I recommend using it only on new save games.
+
 # Uninstallation
 Delete your game's "CQM" folder and reinstall "Clan Quest Mod".
 
