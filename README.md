@@ -1,7 +1,7 @@
 # VTMB CQM Homosexuality
 "Clan Quest Mod" is a fan-made modification by Burgermeister for Troika's "Vampire: The Masquerade - Bloodlines" built on top of Wesp5's Unofficial Patch. Unfortunately, the last version of CQM (4.1) was built on top of UP 9.2, whereas the "Homosexual" history was not added to Unnofficial Patch Plus until version 9.9.
 
-"CQM Homosexuality" is a project to backport and fully implement the "Homosexual" history into CQM 4.1.
+"CQM Homosexuality" is a project to backport and fully implement the "Homosexual" history into CQM 4.1 running the provided version of Unnofficial Patch Plus 9.2.
 
 "CQM Homosexuality" is currently being developed without the use of any of CQM's optional mods, such as "Camarilla Edition Lite". There is then a potential for conflicts with their use, I plan on looking into providing alternative versions for this if it is the case.
 
