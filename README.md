@@ -3,7 +3,7 @@
 
 "CQM Homosexuality" is a project to backport and fully implement the "Homosexual" history into CQM 4.1 running the provided version of Unnofficial Patch Plus 9.2.
 
-"CQM Homosexuality" is currently being developed without the use of any of CQM's optional mods, such as "Camarilla Edition Lite". There is then a potential for conflicts with their use, I plan on looking into providing alternative versions for this if it is the case.
+"CQM Homosexuality" is currently being developed without the use of any of CQM's optional mods, such as "Camarilla Edition Lite". There is then a potential for conflicts with their use, I plan on looking into providing alternative versions for this if it is the case but for the time being am focusing on development under minimum conditions.
 
 # Status
 Currently, "CQM Homosexuality" fully backports Unnofficial Patch Plus' "Homosexual" history as it exists in the UP 9.9. This includes the presence of the history, its function in the model and voice of the player's sire in the opening scene, and its effects on the player's interactions with Jeanette and Romero. It does not yet affect any of the content added by CQM on top of the Unnofficial Patch.
