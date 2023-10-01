@@ -28,7 +28,7 @@ Currently, "CQM Homosexuality" fully backports Unnofficial Patch Plus' "Homosexu
 # Changelog
 <details>
   <summary>Changelog</summary>
-  # R1
+  ### R1
   Initial release backporting Unofficial Patch Plus' 9.9 "Homosexual" history to CQM 4.1.
 </details>
 
