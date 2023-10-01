@@ -456,7 +456,7 @@ TraitEffectsData
 		"InternalName"	"History"
 		"Name"		"History"
 		
-		TraitEffectGroup	// added by wesp
+		TraitEffectGroup
 		{
 			"InternalName"	"History (Homo)"
 			TraitEffect

@@ -21,7 +21,7 @@ HistoryDataTables
 //		}
 //	}
 
-	HistoryData	// added by wesp
+	HistoryData
 	{
 		Text
 		{
