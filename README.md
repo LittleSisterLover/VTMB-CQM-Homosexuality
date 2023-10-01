@@ -30,6 +30,10 @@ Currently, "CQM Homosexuality" fully backports Unnofficial Patch Plus' "Homosexu
   <summary>Changelog</summary>
   ---
   <details>
+    <summary>R1.1</summary>
+    Fix to a bugged embrace sound call within sp_theatre.bsp and provides updated node graphs for that map.
+  </details>
+  <details>
     <summary>R1</summary>
     Initial release backporting Unofficial Patch Plus' 9.9 "Homosexual" history to CQM 4.1.
   </details>
