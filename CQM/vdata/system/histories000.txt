@@ -27,7 +27,7 @@ HistoryDataTables
 		{
 			"Name"				"Homosexual"
 			"Description"			"You always found your own gender much more attractive than the other sex..."
-			"ShortDescription"		"Start as a homosexual."
+			"ShortDescription"		"Sexual encounters are only available with your own gender."
 			"ShortPenaltyDescription"	""
 		}
 
